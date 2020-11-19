@@ -31,3 +31,14 @@
 ### 類型(category)管理
 
 提供使用者新增／刪除自訂分類的功能
+
+## GUI 介面截圖
+
+### Record
+![image](https://github.com/autumn0409/simple-money-manager-client/blob/main/img/record.png)
+
+### Chart
+![image](https://github.com/autumn0409/simple-money-manager-client/blob/main/img/chart.png)
+
+### Categorty
+![image](https://github.com/autumn0409/simple-money-manager-client/blob/main/img/category.png)
